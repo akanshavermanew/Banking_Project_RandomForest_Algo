@@ -1,6 +1,5 @@
 #Banking project is build using Random forest and here we have to calculate and submit hard classes i.e cutoff also i.e KS
 #Here ks = 0.3118435(KS score on test data. larger KS, better Model)
-#you got score as 0.67 in project which is very good as it was to be more than 0.47
 
 library(tidymodels)
 library(visdat)
